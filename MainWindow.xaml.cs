@@ -18,7 +18,9 @@ using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Xml.Resolvers;
 using CsvHelper;
-
+// Ronda Rutherford
+// Practice - Persistent Data - CSVs - Writing, Reading, and Preloading
+// June 16, 2023
 namespace Practice_CSV
 {
     /// <summary>
